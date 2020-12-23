@@ -1,0 +1,6 @@
+django_email_login/__pycache__
+accounts/__pycache__
+accounts/migrations
+local_settings.py
+db.sqlite3
+
